@@ -16,7 +16,10 @@ test:
   database: helpy_test
 
 production:
-  <<: *default
-  database: helpy_production
-  username: helpy
-  password: <%= ENV['helpy_DATABASE_PASSWORD'] %>
+  adapter: postgresql
+  encoding: unicode
+  database: support
+  pool: 5
+  username: csgdb
+  password: 0nmgjxrN
+  host: csg.cyruxuioaadm.us-east-1.rds.amazonaws.com
