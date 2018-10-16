@@ -76,8 +76,8 @@ en:
     my_profile: 'My Profile'
 
     # footer
-    powered_by: "Powered by Helpy. An Open Source Helpdesk."
-    get_your_copy: "Grab your copy on GitHub"
+    powered_by: ""
+    get_your_copy: ""
 
     # devise/sessions/new
     login: Log in

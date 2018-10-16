@@ -82,9 +82,9 @@ en:
   select_locale: "Change your Locale"
 
   # footer
-  powered_by: "Copyright © 2018 Mentor."
-  get_your_copy: "Grab your copy on GitHub"
-  version: "Version:"
+  powered_by: "Copyright © 2018 Mentor. All Rights Reserved."
+  get_your_copy: ""
+  version: ""
 
   # flag
   flag_for_review: "Flag for Review"
